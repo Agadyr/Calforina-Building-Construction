@@ -77,7 +77,7 @@ This project is hosted on **Vercel**. To deploy your own version:
 
 ## 📸 **Screenshots**
 
-![Screenshot of the Landing Page](![image](img/Снимок экрана 2024-11-24 220538.png)
+![Screenshot of the Landing Page](![image](img/Снимок%20экрана%202024-11-24%20220538.png)
 
 ---
 
